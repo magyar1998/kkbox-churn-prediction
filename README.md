@@ -1,10 +1,14 @@
 # Projeto de Previsão de Churn com Machine Learning
 
+## 📂 Dataset
+
+Os dados utilizados neste projeto foram obtidos a partir da competição [KKBOX Churn Prediction Challenge](https://www.kaggle.com/competitions/kkbox-churn-prediction-challenge/data), disponível no Kaggle.
+
+A KKBOX é uma plataforma de streaming de música baseada em assinatura. Quando os usuários se registram no serviço, podem optar por renovação manual ou automática. Além disso, eles podem cancelar a assinatura a qualquer momento.
+
 ## 📌 Definição de Churn
 
 Neste projeto, consideramos que um cliente realizou churn (ou seja, foi perdido) quando **não renovou ou não realizou uma nova assinatura válida até 30 dias após o término da assinatura anterior**.
-
----
 
 ## 🔁 Etapas do Projeto
 
